@@ -1,1 +1,1 @@
-# 2024_summer
+# 2024_summer SICOL-2024

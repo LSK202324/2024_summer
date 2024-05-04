@@ -13,12 +13,14 @@ a.menu {
     text-align: center;
     text-decoration: none;
     color: #515151;
+    font-size: 10pt;
 }
 
 a.menu_now {
     text-align: center;
     text-decoration: none;
     color: #969696;
+    font-size: 10pt;
 }
 
 a.link {
@@ -67,7 +69,7 @@ div.content{
 
 
 header.menu{
-    width: 100ex;
+    width: 125ex;
     font-size: 13pt;
     margin-top: 3ex;
     padding-left: 10ex;
@@ -128,7 +130,7 @@ p.content {
 
 h1.title{
     font-size: 20pt;
-    width: 120ex;
+    width: 125ex;
     margin-top: -2.5ex;
     margin-bottom: .5ex;
     padding-left: 10ex;
@@ -138,7 +140,7 @@ h1.title{
 
 h1.main{
     font-size: 20pt;
-    width: 120ex;
+    width: 125ex;
     margin-top: 1ex;
     margin-bottom: 1ex;
     padding-left: 1ex;
@@ -147,48 +149,48 @@ h1.main{
 }
 
 h2.main{
-    font-size: 20pt;
-    width: 120ex;
-    margin-top: 2ex;
-    margin-bottom: 2ex;
+    font-size: 17pt;
+    width: 125ex;
+    margin-top: 1ex;
+    margin-bottom: 1ex;
     padding-left: 2ex;
     display: fixed;
     align-items: left;
 }
 
 p.main{
-    font-size: 13pt;
-    width: 100ex;
+    font-size: 11pt;
+    width: 125ex;
     margin-top: 1ex;
     padding-left: 3ex;
     padding-right: 3ex;
     display: fixed;
     text-justify: inter-word;
     align-items: left;
-    line-height:150%
+    line-height:150%;
 }
 
 
 li.lev1{
-    font-size: 13pt;
+    font-size: 11pt;
     list-style-type : square;
     padding-left:5ex;
 }
 
 li.lev2{
-    font-size: 12pt;
+    font-size: 11pt;
     list-style-type : circle;
     padding-left:10ex;
 }
 
 li.lev3{
-    font-size: 12pt;
+    font-size: 11pt;
     list-style-type : none;
     padding-left:15ex;
 }
 
 li.cont{
-    font-size: 12pt;
+    font-size: 11pt;
     list-style-type: none;
     padding-left: 14ex;
 }
