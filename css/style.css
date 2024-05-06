@@ -42,18 +42,17 @@ header.header_background {
 }
 
 div.page_background{
-    background-color: #356e77;
     max-width: 250ex;
     min-width: 120ex;
     margin: 0;
-    display: absolute;
-    justify-content: left;
+    display: grid;
+    place-items: center;
     overflow: scroll;
-    padding-left: 15ex
 }
 
 div.page_foreground{
-    margin: 2ex 10ex 10ex auto;
+    margin-top: 5ex;
+    margin-left: 10ex;
     padding: 1ex 3%;
     background-color: white;
     width: 130ex;
@@ -82,32 +81,6 @@ hr.content_horizontal_bar{
     width: 120ex
 }
 
-hr.content_vertical_bar{
-    float: left;
-    border-left : thin solid black;
-    width: 0;
-    margin-top: 0;
-    height : 99%;
-}
-
-div.content_left {
-    padding-right: 2.5ex;
-    padding-bottom: 20ex;
-    float: left;
-    height: inherit;
-    width: 30ex;
-    text-align: right;
-    background-color: white;
-}
-
-div.content_right {
-    padding-top: 2ex;
-    padding-left: 5ex;
-    height: inherit;
-    width: 90ex;
-    background-color: white;
-    text-align: left;
-}
 
 li.sub_extended {
     margin-bottom: 1ex;
@@ -208,4 +181,3 @@ div.image_container{
     min-width: 120ex;
     text-align: center;
 }
-
