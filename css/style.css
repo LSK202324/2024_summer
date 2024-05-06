@@ -37,13 +37,14 @@ li.extended{
 
 header.header_background {
     background-color: #356e77;
-    width: auto;
+    max-width: 250ex;
+    min-width: 130ex;
     height: 5ex;
 }
 
 div.page_background{
     max-width: 250ex;
-    min-width: 120ex;
+    min-width: 130ex;
     margin: auto;
     display: grid;
     place-items: center;
