@@ -54,6 +54,7 @@ div.page_background{
 div.page_foreground{
     margin-top: 5ex;
     margin-left: 10ex;
+    margin-right: 10ex;
     padding: 1ex 3%;
     background-color: white;
     width: 130ex;
