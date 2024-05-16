@@ -21,6 +21,8 @@ a.menu_now {
     text-decoration: none;
     color: #969696;
     font-size: 10pt;
+    text-decoration-line: underline;
+    text-decoration-thickness: 2px;
 }
 
 a.link {
