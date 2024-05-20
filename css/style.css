@@ -184,3 +184,34 @@ div.image_container{
     min-width: 120ex;
     text-align: center;
 }
+
+ul.list_cont{
+    font-size: 11pt;
+    margin-left: 4ex;
+    margin-top: -1.5ex;
+    margin-bottom: 1.5ex;
+    line-height: 150%;
+}
+
+ol.list_cont{
+    font-size: 11pt;
+    margin-left: 4ex;
+    margin-top: -1.5ex;
+    margin-bottom: .5ex;
+    line-height: 150%;
+}
+
+li.list{
+    padding-left: 1.5ex;
+    margin-top: 1ex;
+    line-height: 150%;
+}
+
+li.sublist{
+    list-style-type : "-";
+    margin-left: -2ex;
+    margin-top: 1ex;
+    padding-left: 1.5ex;
+    line-height: 150%;
+}
+
