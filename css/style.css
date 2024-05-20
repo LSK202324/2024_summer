@@ -40,7 +40,7 @@ li.extended{
 /* Detailed setting */
 
 header.header_background {
-    background-color: #356e77;
+    background-color: #044747;
     max-width: 250ex;
     min-width: 130ex;
     height: 5ex;
@@ -176,7 +176,7 @@ ul.announce{
 }
 
 a.contact{
-    color: #356e77;
+    color: #044747;
 }
 
 div.image_container{
