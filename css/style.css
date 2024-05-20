@@ -134,6 +134,16 @@ h2.main{
     align-items: left;
 }
 
+
+h3.main{
+    font-size: 13pt;
+    margin-top: 2ex;
+    margin-bottom: 1ex;
+    display: fixed;
+    align-items: left;
+    font-weight: 700;
+}
+
 p.main{
     font-size: 11pt;
     width: 125ex;
@@ -191,6 +201,9 @@ ul.list_cont{
     margin-top: -1.5ex;
     margin-bottom: 1.5ex;
     line-height: 150%;
+    width: 110ex;
+    text-align: justify;
+    word-break: keep-all;
 }
 
 ol.list_cont{
@@ -199,12 +212,18 @@ ol.list_cont{
     margin-top: -1.5ex;
     margin-bottom: .5ex;
     line-height: 150%;
+    width: 110ex;
+    text-align: justify;
+    word-break: keep-all;
 }
 
 li.list{
     padding-left: 1.5ex;
     margin-top: 1ex;
     line-height: 150%;
+    width: 110ex;
+    text-align: justify;
+    word-break: keep-all;
 }
 
 li.sublist{
@@ -213,5 +232,8 @@ li.sublist{
     margin-top: 1ex;
     padding-left: 1.5ex;
     line-height: 150%;
+    width: 110ex;
+    text-align: justify;
+    word-break: keep-all;
 }
 
