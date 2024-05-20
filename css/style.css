@@ -208,8 +208,8 @@ ul.list_cont{
 ol.list_cont{
     font-size: 11pt;
     margin-left: 4ex;
-    margin-top: -1.5ex;
-    margin-bottom: .5ex;
+    margin-bottom: 1.5ex;
+    width: 105ex;
     line-height: 150%;
     text-align: justify;
     word-break: keep-all;
@@ -219,6 +219,7 @@ li.list{
     padding-left: 1.5ex;
     margin-top: 1ex;
     line-height: 150%;
+    width: 105ex;
     text-align: justify;
     word-break: keep-all;
 }
@@ -228,6 +229,7 @@ li.sublist{
     margin-left: -2ex;
     margin-top: 1ex;
     padding-left: 1.5ex;
+    width: 105ex;
     line-height: 150%;
     text-align: justify;
     word-break: keep-all;
