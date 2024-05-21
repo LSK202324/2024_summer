@@ -142,6 +142,7 @@ h3.main{
     display: fixed;
     align-items: left;
     font-weight: 700;
+    padding-left: 4ex;
 }
 
 p.main{
@@ -234,4 +235,3 @@ li.sublist{
     text-align: justify;
     word-break: keep-all;
 }
-
