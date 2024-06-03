@@ -14,7 +14,7 @@ a.menu {
     text-decoration: none;
     color: #515151;
     font-size: 10pt;
-    margin-right: -4ex;
+    margin-right: -4.5ex;
 }
 
 a.menu_now {
@@ -24,7 +24,7 @@ a.menu_now {
     font-size: 10pt;
     text-decoration-line: underline;
     text-decoration-thickness: 2px;
-    margin-right: -4ex;
+    margin-right: -4.5ex;
 }
 
 a.link {
